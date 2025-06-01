@@ -1,13 +1,16 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Aasish+B+Vijayan;AI%2FML+Engineer+in+the+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Aasish+B+Vijayan;AI%2FML+Engineer" alt="Typing SVG" />
 </p>
+
 
 # 💫 About Me:
 👋 Hey there! I'm an AI/ML student turning curiosity into code.<br>
 💻 Building projects that learn, adapt, and solve real problems.<br>
 🤝 Open to collabs, ideas, and innovation!<br>
 🌱 Growing one model at a time—join the journey!
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -23,13 +26,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AasishBVijayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AasishBVijayan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AasishBVijayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AasishBVijayan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AasishBVijayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
