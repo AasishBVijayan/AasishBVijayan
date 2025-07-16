@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Aasish+B+Vijayan;AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Aasish+B+Vijayan;AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 
