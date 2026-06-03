@@ -58,6 +58,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AasishBVijayan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
+<a href="https://www.credly.com/badges/f89db029-2ba7-4164-8ffb-c68f565c3815/public_url" title="IT Specialist - Python"><img src="https://images.credly.com/size/220x220/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="IT Specialist - Python" width="10%" height="" /></a>
+
 ---
 
 # 🤝 Connect With Me
