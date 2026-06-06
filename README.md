@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header&text=Welcome%20to%20my%20Workspace&fontSize=30&animation=fadeIn" width="100%"/>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AasishBVijayan/AasishBVijayan/refs/heads/main/Aasish%20svg.svg" width="650" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Aasish+B+Vijayan;AI%2FML+Enthusiast;Data+Scientist+in+the+Making" alt="Typing SVG" />
 </p>
